@@ -22,9 +22,8 @@ I'm a front-end/Mobile App engineer focused on building solid Javascript/Dart we
 
 ## Skills
 
-- Front-end development
-- Mobile App development
 - JavaScript
+- TypeScript
 - React JS
 - Dart
 - Flutter
@@ -42,4 +41,4 @@ Here are some of the projects I have worked on:
 
 ## Contact
 
-You can reach me at [email address](mailto:longsaarmuknaan@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/francis-longsaar-1443b91b3/).
+You can reach me at [email address](mailto:longsaarmuknaan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/francis-longsaar-1443b91b3/)
