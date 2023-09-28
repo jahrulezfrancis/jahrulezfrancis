@@ -29,7 +29,6 @@ I'm a front-end/Mobile App engineer focused on building solid Javascript/Dart we
 - Flutter
 - HTML
 - CSS
-- SASS
 
 ## Projects
 
