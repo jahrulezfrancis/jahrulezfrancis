@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a front-end/Mobile App engineer focused on building solid Javascript/Dart web systems and interactive mobile applications with real life experience building scalable, fast, and visually stunning web/app solutions that elevate user experiences. I have a strong obsession for user experience & engineering, with a gracious passion for web development. I evolve with tech and constantly seek to learn and apply new technologies. I’m also interested in cyber security and open to any career/growth opportunity.
+I am a flexible front-end engineer with 3 years of experience in building dynamic and responsive websites using technologies such as React JS, Javascript, HTML, CSS, and WordPress. I specialize in developing clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web solutions that elevate user experiences. I have a strong foundation in front-end engineering and am committed to continuous learning and upskilling through relevant courses. I am passionate about meeting deadlines and take every project, regardless of size, seriously. Additionally, I am actively pursuing my goal of becoming a cyber security expert, seeking growth opportunities in this field.
 
 ## Skills
 
 - JavaScript
 - TypeScript
 - React JS
-- Dart
-- Flutter
 - HTML
 - CSS
+- Django
+- Wordpress
 
 ## Projects
 
