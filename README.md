@@ -25,10 +25,10 @@ I am an open-ended front-end engineer with 3 years of experience in building dyn
 - JavaScript
 - TypeScript
 - React JS
-- HTML
-- CSS
 - Django
 - Wordpress
+- HTML5
+- CSS3
 
 <!-- ## Projects
 
