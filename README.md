@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:...
 -->
 
-I am an open-ended front-end engineer with 3 years of experience in building dynamic and responsive websites using technologies such as React JS, Javascript, HTML, CSS, and WordPress. I develop clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web solutions that elevate user experiences. I have a solid foundation in front-end engineering and am committed to continuous learning and upskilling through relevant courses. I am passionate about my skills, and I strive to meet deadlines and take every project, regardless of size, seriously. I'm actively seeking growth opportunities in the field of software engineering.
+I am an open-ended front-end engineer with 3 years of experience in building dynamic and responsive websites using web technologies such as React JS, Javascript, HTML, and CSS. My expertise also extends to content management systems such as WordPress and Wix. I have a very solid foundation in front-end engineering which has enabled me develop clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web solutions that elevate user experiences. I am committed to continuous learning and upskilling through relevant courses.  I am passionate about my skills, and I strive to meet deadlines and take every project, regardless of size, seriously. I'm actively seeking growth opportunities in the field of software engineering.
 
 ## Skills
 
