@@ -28,7 +28,7 @@ I am an open-ended front-end engineer with 3 years of experience in building dyn
 - Voice Overs
 - System Analysis
 
-## Languages
+## Development Toolkit
 - JavaScript
 - TypeScript
 - React JS
