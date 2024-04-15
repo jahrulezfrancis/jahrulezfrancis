@@ -22,7 +22,8 @@ I am an open-ended front-end engineer with 3 years of experience in building dyn
 
 ## My Skillset
 
-- Web development
+- Web 2.0 development
+- Web 3.0 development
 - App development
 - Content management systems (Wordpress dev, Wix & Shopify)
 - Voice Overs
@@ -32,7 +33,7 @@ I am an open-ended front-end engineer with 3 years of experience in building dyn
 - JavaScript
 - TypeScript
 - React JS
-- Next JS
+- Solidity
 - Django
 - HTML5
 - CSS3
