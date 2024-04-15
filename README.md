@@ -26,8 +26,6 @@ I am an open-ended front-end engineer with 3 years of experience in building dyn
 - Web 3.0 development
 - App development
 - Content management systems (Wordpress dev, Wix & Shopify)
-- Voice Overs
-- System Analysis
 
 ## Development Toolkit
 - JavaScript
