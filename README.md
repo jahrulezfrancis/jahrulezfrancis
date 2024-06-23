@@ -23,6 +23,8 @@ I am an open-ended full-stack web engineer with over 3 years of experience in bu
 ## My Skillset
 
 - Full stack web development
+- Front-end Development
+- Backend Development
 - Content management systems (Wordpress dev, Wix & Shopify)
 
 ## Development Toolkit
