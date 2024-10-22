@@ -1,4 +1,4 @@
-### Howdy 👋 I'm  Longsaar Francis
+### Howdy 👋, I'm  Longsaar Francis
 
 <!--
 **jahrulezfrancis/jahrulezfrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,19 +18,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:...
 -->
 
-I am an open-ended full-stack web engineer with over 3 years of experience in building dynamic and responsive websites using web technologies such as React JS, Javascript, Typescript, HTML, and CSS. My expertise also extends to content management systems such as WordPress and Wix. I have a very solid foundation in web development which has enabled me develop clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web solutions that elevate user experiences. I am committed to continuous learning and upskilling through relevant courses.  I am passionate about my skills, and I strive to meet deadlines and take every project, regardless of size, seriously. I'm actively seeking growth opportunities in the field of software engineering.
+I am an open-ended full-stack Web & Mobile App engineer with over 4 years of experience in building dynamic and responsive websites & mobile applications using technologies such as Nodejs, Express,React JS React-Native, Javascript, Typescript, HTML, and CSS. My expertise also extends to content management systems such as WordPress and Wix. I have a very solid foundation in web & app development which has enabled me develop clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web & app solutions that elevate user experiences. I am committed to continuous learning and upskilling through relevant courses.  I am passionate about my skills, and I strive to meet deadlines and take every project, regardless of size, seriously. I'm actively seeking growth opportunities in the field of software engineering.
 
 ## My Skillset
 
 - Full stack web development
+- Full stack mobile app developement
 - Front-end Development
 - Backend Development
 - Content management systems (Wordpress dev, Wix & Shopify)
 
 ## Development Toolkit
-- JavaScript
 - TypeScript
-- React JS
+- React-Native
+- React-JS
 - Firebase
 - Node js
 - Express
