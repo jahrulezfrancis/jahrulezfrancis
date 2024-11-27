@@ -30,6 +30,7 @@ I am an open-ended full-stack Web & Mobile App engineer with over 4 years of exp
 
 ## Development Toolkit
 - TypeScript
+- JavaScript
 - React-Native
 - React-JS
 - Firebase
