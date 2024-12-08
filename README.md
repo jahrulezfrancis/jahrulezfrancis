@@ -52,6 +52,6 @@ Checkout my [portfolio](https://longsaarfrancis.netlify.app/)
 
 ## Contact
 
-You can reach out via [email](mailto:longsaarmuknaan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/francis-longsaar-1443b91b3/)
+You can reach out via my email [email](mailto:longsaarmuknaan@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/francis-longsaar-1443b91b3/)
 
 
