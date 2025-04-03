@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:...
 -->
 
-I am an open-ended full-stack Web & Mobile App engineer with over 4 years of experience in building dynamic and responsive websites & mobile applications using technologies such as Nodejs, Express,React JS React-Native, Javascript, Typescript, HTML, and CSS. My expertise also extends to content management systems such as WordPress and Wix. I have a very solid foundation in web & app development which has enabled me develop clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web & app solutions that elevate user experiences. I am committed to continuous learning and upskilling through relevant courses.  I am passionate about my skills, and I strive to meet deadlines and take every project, regardless of size, seriously. I'm actively seeking growth opportunities in the field of software engineering.
+I am an open-ended full-stack Web & Mobile App engineer with over 4 years of experience in building dynamic and responsive websites & mobile applications using technologies such as Nodejs, Express,ReactJS, NextJs, React-Native, Javascript, Typescript, HTML, and CSS. My expertise also extends to content management systems such as WordPress and Wix. I have a very solid foundation in web & app development which has enabled me develop clean, easy-to-maintain, and reusable code, resulting in scalable, fast, and visually stunning web & app solutions that elevate user experiences. I am committed to continuous learning and upskilling through relevant courses.  I am passionate about my skills, and I strive to meet deadlines and take every project, regardless of size, seriously. I'm actively seeking growth opportunities in the field of software engineering.
 
 ## My Skillset
 
@@ -31,8 +31,9 @@ I am an open-ended full-stack Web & Mobile App engineer with over 4 years of exp
 ## Development Toolkit
 - TypeScript
 - JavaScript
+- NextJs
+- ReactJs
 - React-Native
-- React-JS
 - Firebase
 - Node js
 - Express
