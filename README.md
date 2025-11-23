@@ -42,7 +42,7 @@ I am an open-ended full-stack Web & Mobile App engineer with over 4 years of exp
 - CSS3
 
 ## Portfolio
-Checkout my [portfolio](https://longsaarfrancis.netlify.app/)
+Checkout my [portfolio](https://www.nigerianwebdeveloper.ng/)
 
 <!--Here are some of the projects I have worked on:
 
